@@ -1,0 +1,1 @@
+The focal length is 3740 pixels, and the baseline is 160mm.
